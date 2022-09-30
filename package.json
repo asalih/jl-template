@@ -1,10 +1,15 @@
 {
-  "name": "@binalyze/jupyterlab-theme",
+  "name": "@asalih/jl-template",
   "version": "1.0.0",
   "description": "Theme extension for JupyterLab",
   "author": {
     "name": "Ahmet Salih",
     "email": "ahmet@binalyze.com"
+  },
+  "homepage": "https://github.com/asalih/jl-template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asalih/jl-template.git"
   },
   "files": [
     "lib/*.d.ts",
